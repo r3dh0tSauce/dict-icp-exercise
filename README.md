@@ -4,8 +4,9 @@ Negros
 Male
 
 Note:
-git add . 
-git commit -m "note"
 git config user.email "you@example.com"
 git config user.name "Your Name"
+
+git add . 
+git commit -m "note"
 git push
