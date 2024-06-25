@@ -1,4 +1,4 @@
-# dict-ict-exercise
+# dict-icp-exercise
 Jefferson Uy
 Negros
 Male
