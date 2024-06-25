@@ -1,8 +1,8 @@
 {
-    "name": "dict",
+    "name": "dict-icp-exercise",
     "version": "0.2.0",
     "license": "MIT",
-    "author": "jeff",
+    "author": "Jeff",
     "workspaces": [
       "backend",
       "frontend"
